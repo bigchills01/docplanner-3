@@ -100,15 +100,17 @@ p{
     margin:  0px;
 }
 .word{
-    color: #ababab;
-    font-family: 'sanserif';
-    font-size: 15px;
+    color: #747474;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
     font-weight: 300;
+    
 }
 .word-2{
-    color: #ababab;
-    font-family: 'sanserif';
-    font-size: 15px;
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
 }
 .mycomments{
 display:flex;
